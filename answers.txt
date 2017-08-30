@@ -1,0 +1,50 @@
+QUESTIONNAIRE: TELL ME ABOUT YOU
+
+1.	Why are you taking this course?
+	1)	Suggested by Professor Msurdeanu
+	2)	I want to learn how to display data in a way that conveys information effectively, and learn more knowledge about data science. 
+
+2.	What do you think you’ll learn in this course?
+	1)	Javascript, D3 library
+	2)	Different types of visualization 
+	3)	How humans perceive information. 
+	4)	How to design my own visualization system for large datasets 
+
+3.	What programming languages are you comfortable with?
+	C++, Java, python, c#, perl, Javascript
+
+4.	Which programming language are you most comfortable with?
+	C++
+
+5.	Have you ever created a data visualization? What was it?
+	No answer
+
+6.	During the course of your studies, what’s the largest dataset you’ve had to deal with? What tools did you use?
+	5G, Matlab
+
+7.	What’s the best visualization you’ve ever seen? Why do you like it?
+	Facebook's Visualizing Friendships  
+	It makes the world of social connections visible.
+
+8.	What’s the worst visualization you’ve ever seen? Why do you not like it?
+	No answer
+
+9.	How would you assess your own programming skills, compared to what you would imagine the class composition to be? Please give an estimate in terms of percentiles.
+	80% below
+
+10.	How would you assess your own mathematical skills, compared to what you would imagine the class composition to be? Please give an estimate in terms of percentiles.
+	65% below
+
+11.	Version control. Do you use it regularly/have you used it before?
+	Have some experience, but not regularly.
+
+12.	How much experience do you have with Git?
+	Used Git for several projects, both on windows and Linux
+
+13.	How much experience do you have with GitHub?
+	Same as above 
+
+14.	Tell me about something interesting you learned recently. This can really be anything. For example, if you were meeting with a friend, what would you chat about? Possible answers: books, ideas, films, art, TV shows, blogs, podcasts, etc. This answer really does not have to be about data visualization.
+	1)	Several interesting projects on Indiegogo, such as SILENT PARTNER, CityGo.
+	2)	A project that creates interactive projector display with Ubi Displays Toolkit.
+
